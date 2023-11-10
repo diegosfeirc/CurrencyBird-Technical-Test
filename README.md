@@ -26,7 +26,7 @@ The API should be able to enter payment submissions in a SQLite database and rec
 
 Clone this repository:
 ```
-git clone https://github.com/Paul-CG/currencybird.git
+git clone https://github.com/diegosfeirc/CurrencyBird-Technical-Test.git
 ```
 
 Change the directory to the repository:
